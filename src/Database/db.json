@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "Mohd Shami",
+      "Date": "2022-12-21",
+      "email": "shami@gmail.com",
+      "phone": "7896547897",
+      "id": 4
+    },
+    {
+      "name": "Shikhar Dhawan",
+      "Date": "2022-12-06",
+      "email": "dhawan@gmail.com",
+      "phone": "4569874563",
+      "id": 6
+    },
+    {
+      "name": "Virat Kohli",
+      "Date": "2022-12-30",
+      "email": "viratkohli@gmail.com",
+      "phone": "8596589658",
+      "id": 7
+    },
+    {
+      "name": "Pankaj Tripathi",
+      "Date": "2022-12-20",
+      "email": "pankaj@gmail.com",
+      "phone": "9658965236",
+      "id": 8
+    },
+    {
+      "name": "Nishant Mishra",
+      "Date": "2022-12-13",
+      "email": "nish@example.com",
+      "phone": "7678440783",
+      "id": 9
+    }
+  ]
+}
