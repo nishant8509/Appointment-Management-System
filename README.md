@@ -29,7 +29,7 @@ This is a web app built with ReactJS for managing appointments. It features thre
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/[user]/ams.git`
+1. Clone the repository: `git clone https://github.com/nishant8509/Appointment-Management-System/tree/master.git`
 2. Install the dependencies: `npm install` or `yarn install`
 3. Start the json-server: `npm run json-server`
 4. Start the app: `npm start` or `yarn start`
